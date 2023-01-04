@@ -4,6 +4,7 @@ var arr = [{value : ""} ]
 function onLoad(){
     render()
     console.log("heello")
+    console.log("test")
 }
 
 function handleInputs(index){
